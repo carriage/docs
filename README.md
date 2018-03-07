@@ -13,7 +13,7 @@ Carriage is an open-source, decentralized platform for EV charging that helps ge
 
     (A) Project financing  
     (C) Payments  
-    (C) Reservations  
+    (G) Reservations  
     (T) Maintenance  
 3) Carriage Protein: the web application for building owners, hardware manufacturers, automotive OEMs, contractors, utilities and other stakeholders.
 4) Carriage Carb: the statistical model for the optimal placement of charging stations to be used as a null hypothesis for the driver demand model.
