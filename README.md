@@ -9,7 +9,12 @@ Carriage is an open-source, decentralized platform for EV charging that helps ge
 
 **Component**: The individual project folders that define the different parts of the Carriage platform. Taken together, these provide the essential functions of the platform: 
 1) Carriage RNA: the mobile application for drivers
-2) Carriage DNA: the blockchain protocols for project financing, payments, reservations, and maintenance
+2) Carriage DNA: the blockchain protocol that is consists of 
+
+    (A) Project financing  
+    (C) Payments  
+    (C) Reservations  
+    (T) Maintenance  
 3) Carriage Protein: the web application for building owners, hardware manufacturers, automotive OEMs, contractors, utilities and other stakeholders.
 4) Carriage Carb: the statistical model for the optimal placement of charging stations to be used as a null hypothesis for the driver demand model.
 5) Carriage Lepid: the V2G service to allow for power grid optimization using spare vehicle storage capacity.
