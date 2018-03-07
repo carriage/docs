@@ -13,10 +13,9 @@ Carriage is an open-source, decentralized platform for EV charging that helps ge
 3) Carriage Protein: the web application for building owners, hardware manufacturers, automotive OEMs, contractors, utilities and other stakeholders.
 4) Carriage Carb: the statistical model for the optimal placement of charging stations to be used as a null hypothesis for the driver demand model.
 5) Carriage Lepid: the V2G service to allow for power grid optimization using spare vehicle storage capacity.
+- *FeatureMap*: Each project folder has a list of features mapped against the overall platform roadmap. The featuremap is a list of all features specific to that component, ordered according to the overall roadmap.
 
 **Feature**: The distinct attributes that make up a component.
-
-**FeatureMap**: Each project folder has a list of features mapped against the overall platform roadmap. The featuremap is a list of all features specific to that component, ordered according to the overall roadmap.
 
 **Issue**: The lowest level aspects of a feature that can be discretized and worked on individually.
 
