@@ -13,7 +13,7 @@ Involved Components:
 
 ## Future Milestones
 ### Blue Tigers
-***Contemplating the infinite**
+**Contemplating the infinite**
 
 Theme: 
 Goals:
